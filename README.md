@@ -1,4 +1,4 @@
-# Flight Booking and Hotel Search System
+# Flight Booking and Hotel Search System ✈️
 
 ## Overview
 This application is a comprehensive system for booking flights and searching for the best hotels. Users can use it to easily book flights and find suitable accommodations for their trips.
